@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Time test Suite" duration-ms="10" started-at="2020-05-10T11:11:43Z" finished-at="2020-05-10T11:11:43Z">
+    <groups>
+      <group name="include-group">
+        <method signature="AllBeforeAfterTest.testMethodOne()[pri:0, instance:com.itvdn.AllBeforeAfterTest@7b233209]" name="testMethodOne" class="com.itvdn.AllBeforeAfterTest"/>
+        <method signature="AllBeforeAfterTest.testMethodThree()[pri:0, instance:com.itvdn.AllBeforeAfterTest@7b233209]" name="testMethodThree" class="com.itvdn.AllBeforeAfterTest"/>
+        <method signature="AllBeforeAfterTest.testMethodTwo()[pri:0, instance:com.itvdn.AllBeforeAfterTest@7b233209]" name="testMethodTwo" class="com.itvdn.AllBeforeAfterTest"/>
+      </group> <!-- include-group -->
+    </groups>
+    <test name="Simple Test" duration-ms="10" started-at="2020-05-10T11:11:43Z" finished-at="2020-05-10T11:11:43Z">
+    </test> <!-- Simple Test -->
+  </suite> <!-- Time test Suite -->
+</testng-results>
